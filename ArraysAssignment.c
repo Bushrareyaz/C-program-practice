@@ -1,7 +1,7 @@
 //code1;
 //check array of integers that how many are positive,negative or zero;
 
-#include<stdio.h>
+/*#include<stdio.h>
 int main() {
     int positive=0,negative=0,zero=0;
     int arr[7]={5,9,-3,8,0,-1,7};
@@ -62,3 +62,6 @@ int main() {
 
     return 0;
 }
+*/
+
+
