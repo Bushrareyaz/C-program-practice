@@ -72,5 +72,17 @@ int main() {
     return 0;
 }
 
+//roots of quadratic equation.
+#include<stdio.h>
+int main() {
+    float a,b,c,x;
+    printf("enter value of a ,b and c:\n");
+    scanf("%f,%f,%f",&a,&b,&c);
+    
+
+}
+
+
+
 
 
